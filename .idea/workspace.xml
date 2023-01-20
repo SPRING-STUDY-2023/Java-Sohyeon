@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eaf15040-452b-4097-910d-89e7906a6a1c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chap_02/_01_Operator1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_02/_02_Operator2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_02/_03_Operator3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_02/_04_Operator4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_02/_05_Operator5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_03/_01_String1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_03/_02_String2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_03/_03_StringCompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_03/_04_EscapeSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_03/_Quiz_03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,13 +42,13 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application._Quiz_02">
-    <configuration name="_02_Operator2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap_02._02_Operator2" />
+  <component name="RunManager" selected="Application._Quiz_03">
+    <configuration name="_02_String2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap_03._02_String2" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap_02.*" />
+          <option name="PATTERN" value="chap_03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,12 +56,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_03_Operator3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap_02._03_Operator3" />
+    <configuration name="_03_StringCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap_03._03_StringCompare" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap_02.*" />
+          <option name="PATTERN" value="chap_03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_04_Operator4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap_02._04_Operator4" />
+    <configuration name="_04_EscapeSequance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap_03._04_EscapeSequance" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap_02.*" />
+          <option name="PATTERN" value="chap_03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_05_Operator5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap_02._05_Operator5" />
+    <configuration name="_04_EscapeSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap_03._04_EscapeSequence" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap_02.*" />
+          <option name="PATTERN" value="chap_03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_Quiz_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap_02._Quiz_02" />
+    <configuration name="_Quiz_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap_03._Quiz_03" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap_02.*" />
+          <option name="PATTERN" value="chap_03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._Quiz_02" />
-        <item itemvalue="Application._05_Operator5" />
-        <item itemvalue="Application._04_Operator4" />
-        <item itemvalue="Application._03_Operator3" />
-        <item itemvalue="Application._02_Operator2" />
+        <item itemvalue="Application._Quiz_03" />
+        <item itemvalue="Application._04_EscapeSequence" />
+        <item itemvalue="Application._04_EscapeSequance" />
+        <item itemvalue="Application._03_StringCompare" />
+        <item itemvalue="Application._02_String2" />
       </list>
     </recent_temporary>
   </component>
@@ -127,7 +127,7 @@
       <option name="presentableId" value="Default" />
       <updated>1674184205173</updated>
       <workItem from="1674184206704" duration="4619000" />
-      <workItem from="1674218878131" duration="1242000" />
+      <workItem from="1674218878131" duration="3720000" />
     </task>
     <servers />
   </component>
