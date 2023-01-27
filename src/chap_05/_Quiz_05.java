@@ -6,10 +6,9 @@ public class _Quiz_05 {
         // 신발 사이즈 수는 총 10가지
 
         int[] sizes = new int[10];
-        sizes[0] = 250;
 
-        for (int i = 1; i < sizes.length; i++) {
-            sizes[i] = sizes[i - 1] + 5;
+        for (int i = 0; i < sizes.length; i++) {
+            sizes[i] = 250 + (5 * i);
         }
 
         for (int size : sizes) {
