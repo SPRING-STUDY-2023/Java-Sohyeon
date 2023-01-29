@@ -29,4 +29,22 @@ public class BlackBox {
 
         return 10;
     }
+
+    void record(boolean showDataTime, boolean showSpeed, int min) {
+        System.out.println("녹화를 시작합니다.");
+
+        if (showDataTime) {
+            System.out.println("영상의 날짜 정보가 표시됩니다.");
+        }
+
+        if (showSpeed) {
+            System.out.println("영상의 속도 정보가 표시됩니다.");
+        }
+
+        System.out.println("영상은 " + min + "분 단위로 기록됩니다.");
+    }
+
+    void record() {
+        record(true, true, 5);
+    }
 }
