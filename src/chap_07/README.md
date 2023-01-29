@@ -30,4 +30,5 @@ public static void main(String[] args) {
   System.out.println("모든 블랙박스 제품의 자동 신고 기능: " + BlackBox.canAutoReport);
   
   BlackBox.callServiceCenter();
+}
 ```
