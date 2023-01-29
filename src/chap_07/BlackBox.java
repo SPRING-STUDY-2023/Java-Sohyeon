@@ -47,4 +47,8 @@ public class BlackBox {
     void record() {
         record(true, true, 5);
     }
+
+    static void callServiceCenter() {
+        System.out.println("서비스 센터로 연결합니다.");
+    }
 }
