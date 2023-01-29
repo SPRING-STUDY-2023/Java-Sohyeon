@@ -1,7 +1,8 @@
 ## 클래스 변수 및 메소드
 - 클래스 자체에서 변수 및 메소드를 호출하고 사용할 수 있다.
 - `static`을 붙여서 사용한다.
-₩₩₩
+
+```
 public class BlackBox {
 
   ...
@@ -29,4 +30,4 @@ public static void main(String[] args) {
   System.out.println("모든 블랙박스 제품의 자동 신고 기능: " + BlackBox.canAutoReport);
   
   BlackBox.callServiceCenter();
-₩₩₩
+```
